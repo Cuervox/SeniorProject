@@ -1,0 +1,85 @@
+body{
+  font-family: helvetica, arial, sans-serif;
+}
+#login{
+  text-align: center;
+  background-color: : #e3e3e3;
+  border: 1px solid #CFCFCF;
+  min-height: 330px;
+  _height: 330px;
+  width: 705px;
+  position: absolute;
+  left: 50%;
+  margin-left: -352px;
+  top: 50%;
+  margin-top: -165px;
+  height: 100%;
+}
+h1{
+  color: #5f5f6a;
+  font-size: 25px;
+}
+h2{
+  padding: 15px 0 15px 75px;
+  _padding-left: 38px;
+  margin-top: 25px;
+  background: #ffa100;
+  color: #2f2f2f;
+  border-top: 1px solid #9f9f9f;
+  width: 676px;
+  height: 73px;
+  font-size: 45px;
+  position: relative;
+}
+small{
+  font-size: 16px;
+  position: relative;
+  top: -4px;
+}
+label{
+  font-size: 24px;
+}
+input{
+  width: 40%;
+  height: 30px;
+  position: relative;
+  top: -4px;
+  font-size: 20px;
+  padding: 0;
+  color: #555555;
+}
+input#submit{
+  width: 15%;
+  font-size: 14px;
+}
+
+h4{
+  color: #5f5f5f;
+  font-size: 23px;
+}
+h4.alert{
+  background-color: #bfbfbf;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px dotted white;
+  font-size: 19px;
+  line-height: 19px;
+  position: relative;
+  -moz-border-radius: 2px;
+}
+span.exit
+{
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: #6361DF;
+  color: #292929;
+  font-size: 10px;
+  line-height: 14px;
+  font-weight: bold;
+  padding: 0;
+  cursor: pointer;
+  border-left: 1px dotted white;
+  border-bottom: 1px dotted white;
+}
